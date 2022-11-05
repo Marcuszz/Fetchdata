@@ -1,0 +1,17 @@
+{
+    "name": "user/fetch-mongo",
+    "autoload": {
+        "psr-4": {
+            "User\\FetchMongo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "marcuszz",
+            "email": "marcuzcalaguas@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.12"
+    }
+}
